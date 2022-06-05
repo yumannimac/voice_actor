@@ -1,13 +1,13 @@
 # この声優とあの声優（たち）が共演しているのか調べたい
 まずは[Google Colaboratory](https://colab.research.google.com)をブラウザで表示する。
 
-<img src="SS_2022-06-06_0-18-07.jpg" width="30%">
+<img src="SS_2022-06-06_0-18-07.jpg" width="70%">
 
 画像のようにファイル->ノートブックを新規作成を開くと下のようになる。（カーソルを当てると左のようになる）
 
-<img src="SS_2022-06-06_0-18-47.jpg" width="30%">
+<img src="SS_2022-06-06_0-18-47.jpg" width="70%">
 
-<img src="SS_2022-06-06_0-19-08.jpg" width="30%">
+<img src="SS_2022-06-06_0-19-08.jpg" width="70%">
 
 「コード」を押すと入力できる。
 
